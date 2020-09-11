@@ -1,3 +1,12 @@
+# High Resolution Electricity Access (HREA) Indicators
+#### New Methods to Estimate Electricity Access Using Nightly VIIRS Satellite Imagery
+
+Brian Min (brianmin@umich.edu)
+Zachary O’Keeffe (zokeeffe@umich.edu)
+University of Michigan
+
+Rev. September 2020
+
 # Introduction
 
 We introduce a new method to generate likelihood estimates of electricity access for all areas with human settlements within a country by identifying statistical anomalies in brightness values that are plausibly associated with electricity use, and unlikely to be due to exogenous factors.
