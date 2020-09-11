@@ -1,5 +1,5 @@
 # High Resolution Electricity Access (HREA) Indicators
-**New Methods to Estimate Electricity Access Using Nightly VIIRS Satellite Imagery**
+### New Methods to Estimate Electricity Access Using Nightly VIIRS Satellite Imagery**
 
 Brian Min (brianmin@umich.edu)
 
